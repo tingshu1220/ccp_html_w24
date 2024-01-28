@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 10%;
+    color: rgb(81, 45, 213);
+
+    background-color: rgb(225, 255, 224);
+
+
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(24, 9, 77);
+    font-size: 3em;
+    border: solid 3px  #795ed1;
+}
+
+h2 {
+    color: rgb(31, 53, 108);
+    font-size: 4em;
+    background-color: rgb(123, 229, 120);
+    border: solid 1.5px #ff94ed;
+    font-family: “helvetica”, sans-serif;
+
+}
+
+h3 {
+    color: rgb(141, 141, 23);
+    font-size: 1.5em;
+}
+
+Image {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 20px;
+}
